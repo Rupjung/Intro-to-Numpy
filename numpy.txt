@@ -1,0 +1,11 @@
+Introduction to NumPy
+NumPy (Numerical Python) is a powerful Python library that handles mathematical and numerical operations efficiently.
+
+The main function of NumPy is to work with large, multi-dimensional arrays and to perform complex mathematical operations between them.
+
+Before NumPy, numerical operations in Python relied on lists. The introduction of NumPy arrays enhanced computational speed and efficiency considerably. 
+
+The transition from Python lists to NumPy arrays alone can boost performance by up to 100 times.
+
+Therefore, NumPy is a valuable asset in data science.
+
