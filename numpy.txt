@@ -9,3 +9,9 @@ The transition from Python lists to NumPy arrays alone can boost performance by 
 
 Therefore, NumPy is a valuable asset in data science.
 
+It has a data structure called ndarray, which is the reason behind NumPy's efficiency.
+
+NumPy arrays are homogeneous, meaning they can only store elements of the same data type, enabling efficient storage and computation.
+
+Note: We prefer NumPy arrays over Python lists because they are implemented in C, which makes them faster and more efficient than lists.
+ Also, NumPy supports vectorized operations, which means mathematical operations can be applied on entire arrays at once.
